@@ -2,9 +2,7 @@ import React, { useState } from "react";
 import { FaWhatsapp, FaHome, FaBars, FaTimes } from "react-icons/fa";
 import { GiSoap } from "react-icons/gi";
 
-/**
- * Natural Beauty – FULL RESPONSIVE versión PRO + Glow Colors
- */
+
 
 const PRODUCTS = [
   {
